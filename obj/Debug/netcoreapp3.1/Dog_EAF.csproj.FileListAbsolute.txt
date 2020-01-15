@@ -1,0 +1,11 @@
+C:\Users\elifu\source\repos\Dog_EAF\bin\Debug\netcoreapp3.1\Dog_EAF.exe
+C:\Users\elifu\source\repos\Dog_EAF\bin\Debug\netcoreapp3.1\Dog_EAF.deps.json
+C:\Users\elifu\source\repos\Dog_EAF\bin\Debug\netcoreapp3.1\Dog_EAF.runtimeconfig.json
+C:\Users\elifu\source\repos\Dog_EAF\bin\Debug\netcoreapp3.1\Dog_EAF.runtimeconfig.dev.json
+C:\Users\elifu\source\repos\Dog_EAF\bin\Debug\netcoreapp3.1\Dog_EAF.dll
+C:\Users\elifu\source\repos\Dog_EAF\bin\Debug\netcoreapp3.1\Dog_EAF.pdb
+C:\Users\elifu\source\repos\Dog_EAF\obj\Debug\netcoreapp3.1\Dog_EAF.csprojAssemblyReference.cache
+C:\Users\elifu\source\repos\Dog_EAF\obj\Debug\netcoreapp3.1\Dog_EAF.AssemblyInfoInputs.cache
+C:\Users\elifu\source\repos\Dog_EAF\obj\Debug\netcoreapp3.1\Dog_EAF.AssemblyInfo.cs
+C:\Users\elifu\source\repos\Dog_EAF\obj\Debug\netcoreapp3.1\Dog_EAF.dll
+C:\Users\elifu\source\repos\Dog_EAF\obj\Debug\netcoreapp3.1\Dog_EAF.pdb
